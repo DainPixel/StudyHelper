@@ -1,8 +1,15 @@
-# Study Helper
+# 📚 Study Helper (2020)
 
 ## Project Overview
-**Study Helper** is a Python GUI application designed to assist with studying and time management. 
-It utilizes Tkinter to provide an intuitive interface and includes features for GPA calculation, a timer, and a memo function.
+**Study Helper** is a Python GUI application designed to assist with studying and time management. <br>
+It utilizes Tkinter to provide an intuitive interface and includes features for GPA calculation, a timer, and a memo function.<br>
+*This project was created as part of the Computational Thinking and Programming course.*
+
+<p align="center">
+  <img src="ui_img.png" alt="Study Helper UI" width="700">
+</p>
+
+
 
 ## Features
 ### 📚 Study Tab
